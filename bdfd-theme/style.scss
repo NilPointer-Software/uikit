@@ -1,0 +1,19 @@
+$global-background: #1E1E1E;
+$navbar-background: #673AB7;
+$global-emphasis-color: #fff;
+$text-meta-color: #fff;
+$text-muted-color: #fff;
+$text-meta-link-color: #fff;
+$link-muted-color: #fff;
+$text-emphasis-color: #fff;
+$text-secondary-color: #fff;
+$global-color: #fff;
+$global-muted-color: #dedede;
+$base-code-color: $navbar-background;
+$base-em-color: $navbar-background;
+$base-code-background: #202020;
+
+@import "../src/scss/variables-theme.scss";
+@import "../src/scss/mixins-theme.scss";
+@import "../src/scss/uikit-theme.scss";
+

@@ -21,3 +21,6 @@ custom
 themes.json
 .DS_Store
 /.idea
+
+style.css
+style.css.*
