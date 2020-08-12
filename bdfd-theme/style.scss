@@ -12,6 +12,9 @@ $global-muted-color: #dedede;
 $base-code-color: $navbar-background;
 $base-em-color: $navbar-background;
 $base-code-background: #202020;
+$form-placeholder-color: #868686;
+$notification-message-background: #555555;
+$notification-message-success-color: #fff;
 
 @import "../src/scss/variables-theme.scss";
 @import "../src/scss/mixins-theme.scss";
